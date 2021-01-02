@@ -9,7 +9,9 @@ Requirements
 Quick start
 -----------
 1. Run the application in your editor
-3. Point your browser to [http://localhost:8080/](http://localhost:8080/)
+2. Point your browser to [http://localhost:8080/](http://localhost:8080/)
+3.Admin = demo@localhost password = demo ,  User = a@a password = demo
+ 
 
 Screen shot
 -----------
