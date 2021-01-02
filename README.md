@@ -8,7 +8,7 @@ Requirements
 
 Quick start
 -----------
-1. mvn clean spring-boot:run
+1. Run the application in your editor
 3. Point your browser to [http://localhost:8080/](http://localhost:8080/)
 
 Screen shot
