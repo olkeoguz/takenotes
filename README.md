@@ -1,5 +1,5 @@
 # takenotes
-Note taking app using Spring Boot, Spring BootData Jpa, Spring Security,Spring Boot Validation and H2 Database.
+Note taking app using Spring Boot, Spring Boot Data Jpa, Spring Boot Security,Spring Boot Validation and H2 Database.
 
 Requirements
 ------------
