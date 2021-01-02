@@ -12,7 +12,7 @@
     </ul>
 </nav>
 
-<h1>Create a new user</h1>
+<h1>Create a new note</h1>
 
 <form role="form" name="form" action="" method="post">
     <input type="hidden" name="${_csrf.parameterName}" value="${_csrf.token}"/>
