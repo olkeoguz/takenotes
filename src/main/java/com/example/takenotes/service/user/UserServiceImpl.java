@@ -15,16 +15,6 @@ import java.util.List;
 import java.util.Optional;
 import java.util.stream.Collectors;
 
-/**
- * Created by IntelliJ IDEA.
- * Project : spring-boot-security-example
- * User: hendisantika
- * Email: hendisantika@gmail.com
- * Telegram : @hendisantika34
- * Date: 9/29/17
- * Time: 7:51 AM
- * To change this template use File | Settings | File Templates.
- */
 @Service
 public class UserServiceImpl implements UserService {
 
